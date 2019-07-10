@@ -1,0 +1,5 @@
+No se debe olvidar agregar el connector en la carpeta librerias
+en el proyecto de netbeans.
+
+Se adjunta el connector
+
